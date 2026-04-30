@@ -1,3 +1,4 @@
+# profile-title: ArslanoebismVPN | DELUXE
 vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.96:52006?security=tls&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20ArslanoebismVPN%20-%20%20%231
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?security=tls&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ArslanoebismVPN%20-%20%20%232
 vless://4649d681-7f26-4959-a3f2-02eb8866230f@217.168.240.252:9443?security=reality&sni=yahoo.com&fp=chrome&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&sid=2344766a270a6298&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20ArslanoebismVPN%20-%20%20%233
